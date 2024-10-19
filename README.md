@@ -1,9 +1,17 @@
-
-# Well hello! Welcome to my profile 🌱 
-
+### Well hello! 
+#### And welcome to my profile
 I'm am currently studying informatics, learning new things every day and very excited about it. 🤓
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianthium)](https://github.com/anuraghazra/github-readme-stats)
+Skills: JAVA / PYTHON
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/damianthium)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianthium)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!---
