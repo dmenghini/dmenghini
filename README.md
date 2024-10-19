@@ -1,10 +1,9 @@
-### Well hello! 
-#### And welcome to my profile
+### Hi there 👋, Well hello! 
+#### Welcome to my profile
 I'm am currently studying informatics, learning new things every day and very excited about it. 🤓
 
 Skills: JAVA / PYTHON
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/damianthium)  
