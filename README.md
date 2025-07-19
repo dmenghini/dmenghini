@@ -1,10 +1,12 @@
-### Hi there 👋, Well hello! 
-#### Welcome to my profile
-I'm am currently studying informatics, learning new things every day and very excited about it. 🤓
+### Well hello! 👋 
 
-Skills: JAVA / PYTHON
+#### Here you will find 
+- A collection of questionable code that once ran... somewhere... somehow
+- AI models trained on hope
+- Impressive-looking repositories if you don’t open them
+- The ability to laugh at oneself
 
-
+“Works on my machine.” – ancient developer proverb
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dmenghini)  
 
